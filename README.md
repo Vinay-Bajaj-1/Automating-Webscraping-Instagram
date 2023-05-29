@@ -3,6 +3,11 @@ It webscrapes data from instagram.
 
 This is python program that automates data collection by web-scraping from Instagram by logging in and generating csv files and making plots by analysing data.
 
+This program needs to be updated as there is update in site of Instagram.
+
+You should have google chrome installed on system.
+Do not switch tab while running the program. The windows will automatically close once  operations are completed.
+
 Basic work flow of program
 1. searches a keyword in instagram(example - "gaming")
 2. extract username from search result
@@ -34,3 +39,4 @@ Libraries used
 10.operator
 11.collections
 
+I you encounter any error while running the program, rerun it.
