@@ -8,14 +8,14 @@ This program needs to be updated as there is update in site of Instagram.
 You should have google chrome installed on system.
 Do not switch tab while running the program. The windows will automatically close once  operations are completed.
 
-Basic work flow of program
+**Basic work flow of program**
 1. searches a keyword in instagram(example - "gaming")
 2. extract username from search result
 3. visits each username
 4. extracts number of followers, last 10 post, their captions, likes and date of upload
 5. prepare csv and generates plot.
 
-It generates the following results:
+**It generates the following results:**
 1. Generate first csv with following columns : [username, number of followers, likes on first 10 posts, captions on each of the post, number of post done in 3 days, avg likes on last 10 post, avg likes to followers ratio].
 2. Generate 2nd csv with frequency of words used in all captions(stopwords have been removed).
 3. Generate 3rd csv with hashtags used in all captions from all usernames.
