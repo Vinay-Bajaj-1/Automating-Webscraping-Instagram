@@ -39,4 +39,4 @@ Libraries used
 10.operator
 11.collections
 
-I you encounter any error while running the program, rerun it.
+If you encounter any error while running the program, rerun it.
